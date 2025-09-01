@@ -177,9 +177,6 @@ npm start</code></pre>
 │   └── employee.js
 ├── utils/
 │   └── email.js          # Email helper
-├── views/
-│   └── index.ejs
-├── uploads/
 ├── .env
 ├── package.json
 ├── server.js
